@@ -1,0 +1,22 @@
+% program   : RTKPOST ver.demo5 b34g
+% inp file  : D:\Amaster\4semester\Navi\U5\data1\vn310-roverobs.sec
+% inp file  : D:\Amaster\4semester\Navi\U5\data1\INSA11DEU_R_20241700700_01H_01S_MO.rnx
+% inp file  : D:\Amaster\4semester\Navi\U5\data1\INSA11DEU_R_20241700700_01H_MN.rnx
+% obs start : 2024/06/18 07:16:49.8 GPST (week2319 199009.8s)
+% obs end   : 2024/06/18 07:29:47.4 GPST (week2319 199787.4s)
+% pos mode  : DGPS
+% freqs     : L1+L2/E5b+L5
+% solution  : Forward
+% elev mask : 5.0 deg
+% dynamics  : off
+% tidecorr  : off
+% ionos opt : OFF
+% tropo opt : OFF
+% ephemeris : Broadcast
+% navi sys  : GPS GLONASS Galileo BDS
+% antenna1  :                       ( 0.0000  0.0000  0.0000)
+% antenna2  :                       ( 0.0000  0.0000 -0.0855)
+% ref pos   : 48.780701933    9.171587102   326.5690
+%
+% (lat/lon/height=WGS84/ellipsoidal,Q=1:fix,2:float,3:sbas,4:dgps,5:single,6:ppp,ns=# of satellites)
+%  GPST                  latitude(deg) longitude(deg)  height(m)   Q  ns   sdn(m)   sde(m)   sdu(m)  sdne(m)  sdeu(m)  sdun(m) age(s)  ratio
